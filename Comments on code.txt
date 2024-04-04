@@ -1,0 +1,8 @@
+The other 9 models were coded in a very similar fashion so I chose to emit it from my final code file although results
+can be seen in the Table 1 of my report.
+
+Code was written to create Tables 1,2,3 in the report but were emitted from the file.
+
+There was also code to search that new dataset of metrics to find the top preforming models.
+
+If there are any questions about the code let me know and I can do my best to answer them.
